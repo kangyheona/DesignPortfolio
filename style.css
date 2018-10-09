@@ -1,0 +1,15 @@
+
+
+/* top 메뉴 */
+.top{width:1440px; margin:0 auto; height:100px;}
+
+.logo{ width:241px; height: 84px; float:left; margin-top:5px;}
+.gnb{float:right;}
+.gnb ul li{float:left; width:150px; font-size:20px; text-align:center; }
+.gnb ul li a{display:block;}
+
+
+
+
+/* 메인배너 */
+.mainViusal{width:100%; background:green; float:left;}
